@@ -1,3 +1,10 @@
 
-/* Your CSS Code here. */
-<h2>Introducing the Accio Ipsum</h2>
+h1 {
+            color: blue;
+        }
+        h2 {
+            color: red;
+        }
+        p {
+            color: green;
+        }
